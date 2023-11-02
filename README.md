@@ -2,6 +2,8 @@
 
 This README.md file provides a comprehensive explanation of the implementation of Zobrist Hashing in the Java class `Main`. It covers the use of Zobrist Hashing, its working principle, and its suitability for solving the problem of finding the number of balanced intervals in an array of integers. Additionally, it includes rigorous proofs for the correctness and runtime complexity of the algorithm.
 
+![image](Zobrist.png)
+
 ### Zobrist Hashing
 
 **What is Zobrist Hashing?**
